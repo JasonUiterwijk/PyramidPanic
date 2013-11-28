@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+c:\users\jason\documents\visual studio 2010\Projects\PyramidPanic\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
